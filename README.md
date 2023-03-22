@@ -1,10 +1,6 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:E9B2BC,100:B2B5E9&text=MinKyung-Keum&fontColor=ffffff&fontSize=70&fontAlignY=35"/>
 </div>
 
-<h1 align="center"> Min Kyung, Keum </h1>
-
-<br/>
-
 <h3 align="center">🏁Start<h3>
 <p align="center">September 2022</p>
    
