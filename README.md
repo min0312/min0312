@@ -43,7 +43,7 @@
 <p align="center">
   <a href="https://github.com/min0312">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=min0312&hide=none&hide_title=true&show_icons=true&include_all_commits=false&theme=none" />
-     [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=min0312)](https://solved.ac/min0312)
+     <a href="https://solved.ac/min0312"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=min0312" alt="Solved.ac Profile"></a>
   </a>
 </p>
    
