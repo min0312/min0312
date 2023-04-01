@@ -39,7 +39,7 @@
 
 <br>
 
-<h3 align="center">💡 My Git Stats & BaekJoon Problems 💡</h3>
+<h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/min0312">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=min0312&hide=none&hide_title=true&show_icons=true&include_all_commits=false&theme=none" />
