@@ -1,11 +1,6 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:E9B2BC,100:B2B5E9&text=MinKyung-Keum&fontColor=ffffff&fontSize=70&fontAlignY=35"/>
 </div>
 
-<h3 align="center">🏁Start<h3>
-<p align="center">September 2022</p>
-   
-<br/>
-
 <h3 align="center">👩🏻‍💻About Me</h3>
 <div align="center">
   <a href="https://www.instagram.com/gold__99k/" target="instagram"><img src="https://img.shields.io/badge/Instagram-E9B2BD?style=flat-square&logo=instagram&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
