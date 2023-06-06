@@ -65,10 +65,10 @@
 
 <br>
 
-<h3 align="center">💡 My Git Stats 💡</h3>
+<!-- <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/min0312">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=min0312&hide=none&hide_title=true&show_icons=true&include_all_commits=false&theme=none" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=min0312&hide=none&hide_title=true&show_icons=true&include_all_commits=false&theme=none" /> -->
 <!--      <a href="https://solved.ac/min0312"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=min0312" alt="Solved.ac Profile"></a> -->
   </a>
 </p>
